@@ -4,3 +4,4 @@
 # 01 October 2019: Added SoftUni Exercise: Arrays
 # 07 October 2019: Added SoftUni Exercise: Methods
 # 16 October 2019: Added SoftUni Exercise: Lists
+# 23 October 2019: Added SoftUni Exercise: Object And Classes
