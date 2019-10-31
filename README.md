@@ -6,3 +6,4 @@
 # 16 October 2019: Added SoftUni Exercise: Lists
 # 23 October 2019: Added SoftUni Exercise: Object And Classes
 # 29 October 2019: Added SoftUni Mid Exam
+# 31 October 2019: Added SoftUni Mid Exam Retake
