@@ -8,3 +8,4 @@
 # 29 October 2019: Added SoftUni Mid Exam
 # 31 October 2019: Added SoftUni Mid Exam Retake
 # 11 November 2019: Added SoftUni Demo Mid Exam
+# 13 November 2019: Added SoftUni Exercise: Associative Arrays
