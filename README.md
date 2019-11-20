@@ -10,3 +10,4 @@
 # 11 November 2019: Added SoftUni Demo Mid Exam
 # 13 November 2019: Added SoftUni Exercise: Associative Arrays
 # 15 November 2019: Added SoftUni Exercise: Text Processing
+# 20 November 2019: Added SoftUni Exercise: Basic Web
